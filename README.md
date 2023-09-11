@@ -1,2 +1,2 @@
 # cifar100
-Running models on the cifer-100 dataset
+Running models on the cifar-100 dataset
